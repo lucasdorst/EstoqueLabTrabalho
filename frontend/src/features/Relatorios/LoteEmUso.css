@@ -1,0 +1,32 @@
+
+.cartao-lote-uso {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.cartao-lote-uso h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 18px;
+}
+
+.cartao-lote-uso table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.cartao-lote-uso th {
+    background-color: #f1f4f2;
+    color: #444;
+    font-weight: 600;
+}
+
+.cartao-lote-uso th,
+.cartao-lote-uso td {
+    padding: 14px 12px;
+    border-bottom: 1px solid #eeeeee;
+    font-size: 14px;
+}

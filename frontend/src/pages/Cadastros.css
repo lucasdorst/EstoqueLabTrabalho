@@ -1,0 +1,11 @@
+
+.pagina-cadastros {
+    padding: 30px;
+}
+
+.conteudo-cadastros {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    align-items: start;
+}

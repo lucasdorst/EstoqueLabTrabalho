@@ -1,0 +1,61 @@
+
+.cartao-ajuste {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 650px;
+}
+
+.cartao-ajuste h3 {
+    margin-top: 0;
+    color: #333;
+    font-size: 18px;
+}
+
+.cartao-ajuste .campo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+.cartao-ajuste .campo label {
+    color: #444;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.cartao-ajuste .campo input,
+.cartao-ajuste .campo select,
+.cartao-ajuste .campo textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px;
+    border: 1px solid #dcdedc;
+    border-radius: 8px;
+    font-size: 14px;
+    outline: none;
+}
+
+.cartao-ajuste .campo textarea {
+    resize: vertical;
+    min-height: 90px;
+}
+
+.cartao-ajuste .campo input:focus,
+.cartao-ajuste .campo select:focus,
+.cartao-ajuste .campo textarea:focus {
+    border-color: #9bbba5;
+}
+
+.cartao-ajuste button {
+    margin-top: 25px;
+    padding: 12px 20px;
+    background-color: #dcefe5;
+    color: #333;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+}

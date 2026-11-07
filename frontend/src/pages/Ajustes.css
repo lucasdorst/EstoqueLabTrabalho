@@ -1,0 +1,9 @@
+
+.pagina-ajustes {
+    padding: 30px;
+}
+
+.conteudo-ajustes {
+    display: flex;
+    justify-content: flex-start;
+}

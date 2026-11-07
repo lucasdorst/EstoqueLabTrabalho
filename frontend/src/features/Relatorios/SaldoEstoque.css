@@ -1,0 +1,32 @@
+
+.cartao-saldo {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.cartao-saldo h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 18px;
+}
+
+.cartao-saldo table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.cartao-saldo th {
+    background-color: #f1f4f2;
+    color: #444;
+    font-weight: 600;
+}
+
+.cartao-saldo th,
+.cartao-saldo td {
+    padding: 14px 12px;
+    border-bottom: 1px solid #eeeeee;
+    font-size: 14px;
+}

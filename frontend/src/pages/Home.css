@@ -1,0 +1,27 @@
+
+.pagina-home {
+    padding: 30px;
+}
+
+.pagina-home h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 24px;
+}
+
+.conteudo-home {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    margin-top: 25px;
+}
+
+.area-alertas {
+    padding: 10px;
+}
+
+.area-alertas h3 {
+    margin-top: 0;
+    color: #333;
+    font-size: 18px;
+}

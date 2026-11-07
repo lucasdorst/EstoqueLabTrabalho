@@ -1,0 +1,10 @@
+
+.pagina-relatorios {
+    padding: 30px;
+}
+
+.conteudo-relatorios {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
